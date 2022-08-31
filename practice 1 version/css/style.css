@@ -1,0 +1,40 @@
+#mainDiv {
+    width: 400px;
+    background: #08f5f5;
+}
+div h3 {
+    color: rgb(23, 7, 243);
+    font-weight: 100;
+    font-size: 23px;
+    margin: 10px 0px 10px;
+    text-align: center;
+  }
+
+.divStyle {
+    padding: 10px;
+    border-radius: 10px;
+    background: #08f5f5;
+    display: inline-block;
+  }
+
+.numStyles {
+    padding: 30px;
+    border-radius: 50%;
+    background: #0ab2e1;
+    display: inline-block;
+}
+
+.textStyles {
+display: block;
+padding-top: 10px;
+font-size: 15px;
+text-align: center;
+}
+
+#end h1 {
+    color: rgb(23, 7, 243);
+    font-weight: 100;
+    font-size: 23px;
+    margin: 10px 0px 10px;
+    text-align: center;
+}

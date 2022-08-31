@@ -1,0 +1,25 @@
+#mainDiv {
+    width: 400px;
+    background: #08f5f5;
+}
+
+.divStyle {
+  padding: 10px;
+  border-radius: 10px;
+  background: #08f5f5;
+  display: inline-block;
+}
+
+.numStyles {
+  padding: 30px;
+  border-radius: 50%;
+  background: #0ab2e1;
+  display: inline-block;
+}
+
+.textStyles {
+  display: block;
+  padding-top: 10px;
+  font-size: 15px;
+  text-align: center;
+}
